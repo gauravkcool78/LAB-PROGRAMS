@@ -1,6 +1,6 @@
 #import<Foundation/Foundation.h>
 
-@interface Emp:NSObject{
+@interface Employee:NSObject{
 char name[25];
 char dept[4];
 char ID[10];

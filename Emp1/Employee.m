@@ -1,6 +1,6 @@
 #import "Employee.h"
 
-@implementation Emp
+@implementation Employee
 
 -setName:(const char*)name1{
 strcpy(name,name1);

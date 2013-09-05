@@ -3,7 +3,7 @@
 
 int main(int argc, const char * argv[])
 {
-	Emp *emp = [[Emp alloc]init];
+	Employee *emp = [[Employee alloc]init];
 
 	[emp setName:"Gaurav"];
 	[emp setDept:"ISE"];
